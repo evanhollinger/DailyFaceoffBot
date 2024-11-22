@@ -6,3 +6,5 @@ if __name__ == '__main__':
     # Taking data from the url: https://www.dailyfaceoff.com/teams
 
     print("Hello World")
+
+    print("Bye World")
